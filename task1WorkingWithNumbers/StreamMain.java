@@ -1,6 +1,5 @@
 package task1WorkingWithNumbers;
 
-
 import java.util.*;
 
 public class StreamMain {
